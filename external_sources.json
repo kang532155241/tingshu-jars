@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 10,
   "entry_package": "sources_by_eprendre",
   "download_url": "https://raw.githubusercontent.com/kang532155241/tingshu-jars/main/sources_by_eprendre.jar",
-  "update_msg": "我的听书外置源 jar 自用备份 v2",
+  "update_msg": "我的听书外置源 eprendre 版",
   "support_url": ""
 }
